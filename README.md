@@ -22,7 +22,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br>    
-###
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdevedugame&theme=dark&show_icons=true)
 ####
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
