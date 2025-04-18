@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , Salken Ivan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , Salken </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Backend-Developer,;CTF+Newbie,;Random+People,;Love+to+learn+how+I-Can-Love-You..<3"></a>
@@ -64,15 +64,15 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-ivan-rafsanjani-236a21216/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/imdevedugame">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/imvanz_">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/imvanz_">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@imvanz1133">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		
     
