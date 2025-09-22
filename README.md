@@ -33,7 +33,15 @@
 <br><br>    
 
 <p align="center">
-  <!--- stats (start) -->
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
